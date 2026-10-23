@@ -1,0 +1,578 @@
+{
+  "generatedAt": "2026-10-23T21:24:16Z",
+  "jurisdictions": [
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US",
+      "kind": "federal",
+      "lastChecked": "2026-10-23T21:24:16Z",
+      "lastVerified": null,
+      "name": "Federal",
+      "reviewStatus": "review_needed"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-AL",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Alabama",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-AK",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Alaska",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-AZ",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Arizona",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-AR",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Arkansas",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-CA",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "California",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-CO",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Colorado",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-CT",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Connecticut",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-DE",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Delaware",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-FL",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Florida",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-GA",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Georgia",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-HI",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Hawaii",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-ID",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Idaho",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-IL",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Illinois",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-IN",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Indiana",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-IA",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Iowa",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-KS",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Kansas",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-KY",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Kentucky",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-LA",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Louisiana",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-ME",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Maine",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-MD",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Maryland",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-MA",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Massachusetts",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-MI",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Michigan",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-MN",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Minnesota",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-MS",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Mississippi",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-MO",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Missouri",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-MT",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Montana",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-NE",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Nebraska",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-NV",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Nevada",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-NH",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "New Hampshire",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-NJ",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "New Jersey",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-NM",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "New Mexico",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-NY",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "New York",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-NC",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "North Carolina",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-ND",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "North Dakota",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-OH",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Ohio",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-OK",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Oklahoma",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-OR",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Oregon",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-PA",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Pennsylvania",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-RI",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Rhode Island",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-SC",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "South Carolina",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-SD",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "South Dakota",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-TN",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Tennessee",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-TX",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Texas",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-UT",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Utah",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-VT",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Vermont",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-VA",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Virginia",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-WA",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Washington",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-WV",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "West Virginia",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-WI",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Wisconsin",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-WY",
+      "kind": "state",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "Wyoming",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-DC",
+      "kind": "district",
+      "lastChecked": null,
+      "lastVerified": null,
+      "name": "District of Columbia",
+      "reviewStatus": "not_configured"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-PR",
+      "kind": "territory",
+      "lastChecked": "2026-10-23T21:24:16Z",
+      "lastVerified": null,
+      "name": "Puerto Rico",
+      "reviewStatus": "review_needed"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-GU",
+      "kind": "territory",
+      "lastChecked": "2026-10-23T21:24:16Z",
+      "lastVerified": null,
+      "name": "Guam",
+      "reviewStatus": "review_needed"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-VI",
+      "kind": "territory",
+      "lastChecked": "2026-10-23T21:24:16Z",
+      "lastVerified": null,
+      "name": "U.S. Virgin Islands",
+      "reviewStatus": "review_needed"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-AS",
+      "kind": "territory",
+      "lastChecked": "2026-10-23T21:24:16Z",
+      "lastVerified": null,
+      "name": "American Samoa",
+      "reviewStatus": "review_needed"
+    },
+    {
+      "checkFailed": false,
+      "coverage": "not_built",
+      "id": "US-MP",
+      "kind": "territory",
+      "lastChecked": "2026-10-23T21:24:16Z",
+      "lastVerified": null,
+      "name": "Northern Mariana Islands",
+      "reviewStatus": "review_needed"
+    }
+  ],
+  "monitorLastRun": "2026-10-23T21:24:16Z",
+  "revision": 1,
+  "schema": 1
+}
