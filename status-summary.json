@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T17:13:30Z",
+  "generatedAt": "2026-10-29T17:28:27Z",
   "jurisdictions": [
     {
       "checkFailed": false,
       "coverage": "not_built",
       "id": "US",
       "kind": "federal",
-      "lastChecked": "2026-10-28T17:13:29Z",
+      "lastChecked": "2026-10-29T17:28:26Z",
       "lastVerified": null,
       "name": "Federal",
       "reviewStatus": "review_needed"
@@ -526,7 +526,7 @@
       "coverage": "not_built",
       "id": "US-PR",
       "kind": "territory",
-      "lastChecked": "2026-10-28T17:13:29Z",
+      "lastChecked": "2026-10-29T17:28:26Z",
       "lastVerified": null,
       "name": "Puerto Rico",
       "reviewStatus": "review_needed"
@@ -536,7 +536,7 @@
       "coverage": "not_built",
       "id": "US-GU",
       "kind": "territory",
-      "lastChecked": "2026-10-28T17:13:29Z",
+      "lastChecked": "2026-10-29T17:28:26Z",
       "lastVerified": null,
       "name": "Guam",
       "reviewStatus": "review_needed"
@@ -546,7 +546,7 @@
       "coverage": "not_built",
       "id": "US-VI",
       "kind": "territory",
-      "lastChecked": "2026-10-28T17:13:29Z",
+      "lastChecked": "2026-10-29T17:28:26Z",
       "lastVerified": null,
       "name": "U.S. Virgin Islands",
       "reviewStatus": "review_needed"
@@ -556,7 +556,7 @@
       "coverage": "not_built",
       "id": "US-AS",
       "kind": "territory",
-      "lastChecked": "2026-10-28T17:13:29Z",
+      "lastChecked": "2026-10-29T17:28:26Z",
       "lastVerified": null,
       "name": "American Samoa",
       "reviewStatus": "review_needed"
@@ -566,13 +566,13 @@
       "coverage": "not_built",
       "id": "US-MP",
       "kind": "territory",
-      "lastChecked": "2026-10-28T17:13:29Z",
+      "lastChecked": "2026-10-29T17:28:26Z",
       "lastVerified": null,
       "name": "Northern Mariana Islands",
       "reviewStatus": "review_needed"
     }
   ],
-  "monitorLastRun": "2026-10-28T17:13:29Z",
-  "revision": 7,
+  "monitorLastRun": "2026-10-29T17:28:26Z",
+  "revision": 8,
   "schema": 1
 }
